@@ -4,7 +4,7 @@ Seattle Airbnb Open Data Analys
 
 #### Context
 
-	<br>Seattle Airbnb Open Data Analys Project is one of the several other practice projects carried out</br>
+	Seattle Airbnb Open Data Analys Project is one of the several other practice projects carried out
 by Udacity as a part of the Data Science Nano Degree(DSND) program.
   
   <br>here is the Content	about the seattle Airbnb Data.</br>
@@ -18,7 +18,7 @@ of the Airbnb Inside initiative, this dataset describes the listing activity of 
 
 #### Analiys 
 
-- nstall the required libraries with Jupiter notebook 
+- Install 
   We can install Anaconda distribution for Python 3.7. Anaconda Distribution is the tool of choice contain
 the  pandas numpy collections datetime sklearn matplotlib seaborn etc.
 
