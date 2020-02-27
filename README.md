@@ -3,8 +3,7 @@ Seattle Airbnb Open Data Analys
 
 
 #### Context
-
-	Seattle Airbnb Open Data Analys Project is one of the several other practice projects carried out
+  Seattle Airbnb Open Data Analys Project is one of the several other practice projects carried out
 by Udacity as a part of the Data Science Nano Degree(DSND) program.
   
   <br>here is the Content	about the seattle Airbnb Data.</br>
