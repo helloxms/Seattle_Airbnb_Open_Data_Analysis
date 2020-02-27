@@ -7,7 +7,7 @@ Seattle Airbnb Open Data Analys
 by Udacity as a part of the Data Science Nano Degree(DSND) program.
   
 ##### Data Description：
-	since 2008,guests and hosts have used Airbnb to travel in a more unique, personalized way. As part 
+  since 2008,guests and hosts have used Airbnb to travel in a more unique, personalized way. As part 
 of the Airbnb Inside initiative, this dataset describes the listing activity of homestays in Seattle, WA. 
 
 ##### The following Airbnb activity is included in this Seattle dataset:
